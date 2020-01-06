@@ -1,5 +1,4 @@
 # Art
-Divya's Drawings
 
-[I'm an inline-style link](
+[Divya's Drawings](
 https://divyakumar2007.github.io/Art/set1/index.html)
